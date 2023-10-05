@@ -1,7 +1,7 @@
 import pygame
 
 naytto = pygame.display.set_mode((640, 400))
-pygame.display.set_caption("Piirtäminen")
+pygame.display.set_caption("Minun Pelini")
 
 def main():
     while True:
