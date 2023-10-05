@@ -1,2 +1,2 @@
 # Pygame
-Peli projekti.
+Peli projekti..
