@@ -1,7 +1,8 @@
 import pygame
 
 naytto = pygame.display.set_mode((640, 400))
-pygame.display.set_caption("Minun Pelini")
+pygame.display.set_caption("Minun Python Pelini.")
+print("Testi")
 
 def main():
     while True:
